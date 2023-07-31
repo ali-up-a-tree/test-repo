@@ -1,0 +1,37 @@
+[
+    {
+        "recordID": 1,
+        "URI": "https://example.com/records/1",
+        "ManuscriptID": "MS001",
+        "recordType": "Transmission",
+        "Date": "2023-07-30",
+        "Place": "Cairo",
+        "transcription": "Lorem ipsum dolor sit amet...",
+        "transliteration": "Lorem ipsum dolor sit amet...",
+        "Teacher": "John Doe",
+        "Lector": "Jane Smith",
+        "Registrar": "Mark Johnson",
+        "Auditors": [
+            "Alice",
+            "Bob"
+        ]
+    },
+    {
+        "recordID": 2,
+        "URI": "https://example.com/records/2",
+        "ManuscriptID": "MS002",
+        "recordType": "Transmission",
+        "Date": "2023-08-02",
+        "Place": "Alexandria",
+        "transcription": "Lorem ipsum dolor sit amet...",
+        "transliteration": "Lorem ipsum dolor sit amet...",
+        "Teacher": "Mary Brown",
+        "Lector": "Michael Lee",
+        "Registrar": "Emily Davis",
+        "Auditors": [
+            "Eve",
+            "Frank",
+            "Grace"
+        ]
+    }
+]
